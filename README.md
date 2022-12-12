@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SebasttianM https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif
+# 👋 Hi, I’m Sebastian V Marin ![Alt text](https://media.giphy.com/media/2vnGKHTRcuOTAkT2qA/giphy.gif)
 - 👀 I’m interested in music, audiovisual and coding
 - 🌱 I’m currently learning about Coding, Databases and some other topics related to technology 
 - :metal: I’m looking to collaborate on some proyects in order to learn more of coding and collaborative work as well 
